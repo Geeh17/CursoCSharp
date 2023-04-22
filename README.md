@@ -8,7 +8,7 @@
 
 Fundamentos // 
 Estruturas de controle //
-Casses e métodos //
+Classes e métodos //
 Coleções //
 Orientação a objetos //
 Métodos e funções  //
