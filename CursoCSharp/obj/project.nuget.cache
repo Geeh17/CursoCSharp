@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VgHara5Ofv398vf40gWzHebhwmaWIIkzd0oqON3vNHdH2GxnwLIkUb9hdyUupq9MSIIa1f/5nxT7TCv+Y3kHKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Geeêh Luis\\Desktop\\Cursos\\C#\\C# Curso Completo Do Básico ao Avançado\\CursoCSharp\\CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

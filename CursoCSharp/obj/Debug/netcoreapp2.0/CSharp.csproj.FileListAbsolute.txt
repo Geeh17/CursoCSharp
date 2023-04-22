@@ -1,0 +1,16 @@
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\bin\Debug\netcoreapp2.0\CSharp.deps.json
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\bin\Debug\netcoreapp2.0\CSharp.runtimeconfig.json
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\bin\Debug\netcoreapp2.0\CSharp.runtimeconfig.dev.json
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\bin\Debug\netcoreapp2.0\CSharp.dll
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\bin\Debug\netcoreapp2.0\CSharp.pdb
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.dll
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\obj\Debug\netcoreapp2.0\CSharp.csproj.AssemblyReference.cache
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\obj\Debug\netcoreapp2.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\obj\Debug\netcoreapp2.0\CSharp.AssemblyInfoInputs.cache
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\obj\Debug\netcoreapp2.0\CSharp.AssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\obj\Debug\netcoreapp2.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\obj\Debug\netcoreapp2.0\CSharp.csproj.CopyComplete
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\obj\Debug\netcoreapp2.0\CSharp.dll
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\obj\Debug\netcoreapp2.0\CSharp.pdb
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Curso Completo Do Básico ao Avançado\CursoCSharp\obj\Debug\netcoreapp2.0\CSharp.genruntimeconfig.cache

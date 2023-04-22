@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6JTnA0PeJpH9vFBKWxM+OdGkNGJTEC3Lq19y7aHi/jwm1l0zoNZlLxSHK2c7eMj8fwU2JS8QfvaEaoCyDYHEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Geeêh Luis\\Desktop\\Cursos\\C#\\C# Curso Completo Do Básico ao Avançado\\Encapsulamento\\Encapsulamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Geeêh Luis\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
